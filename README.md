@@ -8,3 +8,4 @@ Another important item to look at in this multiple linear regression model is th
 
 Lastly, let's look at Rsquared value of the model, which is 0.71. Typically, an Rsquared value of 0.7 or greater means that it is a good model and can be used to predict the independent variable. Based solely on this number, I would say that this is a good model. However, since 3 of our 5 variables can produce random amounts of variance to the model, it's possible that this model suffers from overfitting. In order to create a better model, I would consider eliminating one dependent variable at a time (starting with the highest p-value) and analyze the effect it has on the model characteristics.
 
+<img width="463" alt="Deliverable 1 Screenshot" src="https://user-images.githubusercontent.com/88349443/143986509-d4abe5dc-111d-41dd-9243-3643dd4c5df9.png">
